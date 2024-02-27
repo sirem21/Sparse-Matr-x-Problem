@@ -5,7 +5,7 @@ The project aims to analyze various numerical methods for solving linear systems
 # Used Information
 “A NOVEL PARTITIONING METHOD FOR ACCELERATING THE BLOCK CIMMINO ALGORITHM” F. SUKRU TORUN , MURAT MANGUOGLU‡ , AND CEVDET AYKANAT
 # Project Describing
-The project involves three main parts
+## The project involves three main parts ##
 ***1.	Methods Time and Residuals:***
 *	Various numerical methods are applied to solve linear systems, and their computational times and residual errors are recorded.
 *Issues such as SparseEfficiencyWarning are addressed, and the impact of matrix format on computation efficiency is discussed.
